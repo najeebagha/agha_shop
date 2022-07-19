@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "963360250665",
+    "firebase_url": "https://my-shop-57413-default-rtdb.firebaseio.com",
+    "project_id": "my-shop-57413",
+    "storage_bucket": "my-shop-57413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963360250665:android:abd3e892387a4d8bf83538",
+        "android_client_info": {
+          "package_name": "com.fluagha.agha_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963360250665-4kugo0c4rrlblb8b04b96pr6qs4d4uui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJdBK1BYaTcZhyxqf1GjphrVSGnzUeGLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963360250665-4kugo0c4rrlblb8b04b96pr6qs4d4uui.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "963360250665-1o4tgla3i7psuplc6fue9v6indaufnav.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fluagha.aghashop.aghaShop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963360250665:android:6d91cfe8cd2e3275f83538",
+        "android_client_info": {
+          "package_name": "com.fluagha.agha_shop.agha_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963360250665-4kugo0c4rrlblb8b04b96pr6qs4d4uui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJdBK1BYaTcZhyxqf1GjphrVSGnzUeGLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963360250665-4kugo0c4rrlblb8b04b96pr6qs4d4uui.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "963360250665-1o4tgla3i7psuplc6fue9v6indaufnav.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fluagha.aghashop.aghaShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
